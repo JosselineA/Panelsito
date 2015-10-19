@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="335.0" prefWidth="461.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="panel.paint.FXMLDocumentController">
+   <children>
+      <SplitPane dividerPositions="0.9662921348314607" focusTraversable="true" prefHeight="301.0" prefWidth="91.0">
+        <items>
+            <Button layoutX="10"  fx:id="button" prefHeight="60.0" prefWidth="60.0" />
+        </items>
+      </SplitPane>
+   </children>
+</AnchorPane>
